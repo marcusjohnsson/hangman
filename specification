@@ -1,0 +1,21 @@
+1) find a word
+2) print out the corresponding number of letters as underscores, word => _  _  _  _
+3) determine number of guesses
+
+::: Gameplay loop :::
+
+while: guessesLeft > 0
+
+1) Guess a letter
+2) Check how many times the letter occur
+3) Print out the instancess of letter if present.
+4) If letter not present, guessesLeft--
+5) If all letters guessed, exit game.
+
+-- Additionals --
+1. Print letters and undercores
+2. Print letters guessed
+3. Print guessesLeft
+
+
+
